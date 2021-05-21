@@ -1,18 +1,15 @@
 
 ![Alt Text](https://picpedia.org/finance/images/stock-options.jpg)
 
-# FinTech_Group6
-Repo For Project 1
-
 ## Option Metrics as Predictors of Equity Prices
 
-## Group Members
+## Contributors
 * Nestor Aviles
 * Val Shulyak
 * Will Hua
 * Sam Remy
 
-## Project Description: attempt to predict future prices/performance of securities based upon specific metrics of 90-day, at-the-money options. E.g. premium, volume, put/call ratios, and open interest. 
+## Project Description: visualizing the relationship between options and the stock market. 
 
 ## Questions to Answer: 
 * Can 90-day at-the-money options prices accurately and reliably predict the movement (magnitude and direction) of stock prices? 
